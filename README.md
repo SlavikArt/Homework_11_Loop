@@ -8,6 +8,7 @@
 * [Octal_Numbers](Octal_Numbers)
 * [Prime_Number](Prime_Number)
 * [Same_Digits_In_A_Row](Same_Digits_In_A_Row)
+* [Probability](Probability)
 
 <p align="center">
     <h2>In ascending order</h2>
@@ -22,4 +23,7 @@
     <h2>Same digits in a row</h2>
     <p>Is number has same digits in a row.</p>
     <img src="images/Same_Digits_In_A_Row.png">
+    <h2>Probability</h2>
+    <p>Probability of positive, negative, zero, even, odd numbers from -100 to 100 range.</p>
+    <img src="images/Probability.png">
 </p>
